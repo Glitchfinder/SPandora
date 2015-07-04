@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2012-2013 Sean Porter <glitchkey@gmail.com>
+ * Copyright (c) 2012-2015 Sean Porter <glitchkey@gmail.com>
  * 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -19,15 +19,13 @@ package org.pandora;
 
 //* IMPORTS: JDK/JRE
 	//* NOT NEEDED
-//* IMPORTS: BUKKIT
-	import org.bukkit.plugin.java.JavaPlugin;
+//* IMPORTS: SPONGE
+	import org.spongepowered.api.plugin.Plugin;
 //* IMPORTS: PANDORA
 	//* NOT NEEDED
 //* IMPORTS: OTHER
 	//* NOT NEEDED
 
-public class Pandora extends JavaPlugin
-{
-	public void onEnable() {}
-	public void onDisable() {}
-}
+@Plugin(id = "Pandora", name = "Pandora", version = "1.0")
+
+public class Pandora {}
