@@ -5,11 +5,11 @@
 		http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.pandora</groupId>
-	<artifactId>Pandora</artifactId>
+	<groupId>com.azthec</groupId>
+	<artifactId>SPandora</artifactId>
 	<version>1.0</version>
-	<name>Pandora</name>
-	<url>https://github.com/Glitchfinder/Pandora/</url>
+	<name>SPandora</name>
+	<url>https://github.com/Glitchfinder/SPandora/</url>
 
 	<developers>
 		<developer>
@@ -26,17 +26,17 @@
 
 	<issueManagement>
 		<system>github</system>
-		<url>https://github.com/Glitchfinder/Pandora/issues/</url>
+		<url>https://github.com/Glitchfinder/SPandora/issues/</url>
 	</issueManagement>
 
 	<scm>
 		<connection>
-			scm:git:https://github.com/Glitchfinder/Pandora.git
+			scm:git:https://github.com/Glitchfinder/SPandora.git
 		</connection>
 		<developerConnection>
-			scm:git:git@github.com:Glitchfinder/Pandora.git
+			scm:git:git@github.com:Glitchfinder/SPandora.git
 		</developerConnection>
-		<url>https://github.com/Glitchfinder/Pandora/</url>
+		<url>https://github.com/Glitchfinder/SPandora/</url>
 	</scm>
 
 	<repositories>
